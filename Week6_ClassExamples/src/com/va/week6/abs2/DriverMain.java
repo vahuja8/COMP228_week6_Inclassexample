@@ -13,11 +13,9 @@ public class DriverMain {
 	
 	
 	
-	
-		
-		
+	/*  try.... here... calling methods frm IT class. 	
 	IT s2 = new IT();
-	
+	*/
 		
 	}
 
